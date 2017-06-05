@@ -1,0 +1,4 @@
+<script src="<c:url value='recursos/js/jquery.js'/>" type="text/javascript"></script>
+<script src="<c:url value='recursos/js/bootstrap.js'/>" type="text/javascript"></script>
+<script src="<c:url value='recursos/js/bootstrap.min.js'/>" type="text/javascript"></script>
+        

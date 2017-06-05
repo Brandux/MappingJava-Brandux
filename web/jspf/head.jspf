@@ -1,0 +1,4 @@
+ <link href="<c:url value='recursos/css/bootstrap.min.css'/>" rel="stylesheet" type="text/css"/>
+ <link href="<c:url value='recursos/css/bootstrap.css'/>" rel="stylesheet" type="text/css"/>
+ <link href="<c:url value='recursos/css/bootstrap-theme.css'/>" rel="stylesheet" type="text/css"/>
+ <link href="<c:url value='recursos/css/bootstrap-theme.min.css'/>" rel="stylesheet" type="text/css"/>
